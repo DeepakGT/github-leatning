@@ -1,1 +1,1 @@
-My new Doc
+My new Doc: after one commit
