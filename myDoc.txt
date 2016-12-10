@@ -1,1 +1,1 @@
-My new Doc: after one commit change author
+My new Doc: after one commit change author, with branchTwo
